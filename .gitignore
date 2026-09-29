@@ -1,0 +1,20 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales y de despliegue
+*.zip
+response.json
+evento_prueba.json
+*.log
+
+# Entorno e IDEs
+.env
+.vscode/
+.idea/
